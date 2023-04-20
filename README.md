@@ -1,5 +1,6 @@
 # Coding-Samples
 These samples include:
+
 **Synethesia TurtleBot**
 
 This Python code analyzes audio data using Fast Fourier Transform (FFT) to determine the frequency of the sound being played within a given time frame. Based on the frequency range, the code creates a circle, triangle, or square using the Matplotlib library, which is displayed on the screen. The program repeatedly records and analyzes audio data until the user inputs 'q' to quit the program. This code is useful for applications that involve sound processing and analysis, such as speech recognition or music analysis.
@@ -28,7 +29,7 @@ The program will record audio input for a specified time frame and use the frequ
 
 
 
-** Crowd Modelling Train Neural Network**
+**Crowd Modelling Train Neural Network**
 
 This code trains a spatio-temporal graph convolutional neural network (ST-GCNN) on pedestrian trajectory prediction. The network is trained to predict the future trajectories of pedestrians based on their previous movements, observed trajectories, and social interactions with other pedestrians in a given scene. The code defines the model architecture, loads the dataset, sets the training parameters, and trains the model for a specified number of epochs while recording the training and validation loss. The model is saved at the end of the training process
 
