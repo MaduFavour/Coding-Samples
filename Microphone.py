@@ -1,6 +1,3 @@
-#conda activate myenv
-#python "/Users/maduf/Turtblebot/Microphone.py"
-
 import pyaudio
 import numpy as np
 import time
